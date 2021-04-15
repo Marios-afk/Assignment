@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Quantity_Rule</fullName>
-    <active>true</active>
-    <errorConditionFormula>TotalOpportunityQuantity &gt; 500</errorConditionFormula>
-    <errorMessage>You have exceeded maximum quantity</errorMessage>
-</ValidationRule>
