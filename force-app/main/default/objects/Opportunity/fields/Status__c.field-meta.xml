@@ -12,22 +12,6 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Draft</fullName>
-                <default>false</default>
-                <label>Draft</label>
-            </value>
-            <value>
-                <fullName>Occupied</fullName>
-                <default>false</default>
-                <label>Occupied</label>
-            </value>
-            <value>
-                <fullName>Taken</fullName>
-                <default>false</default>
-                <label>Taken</label>
-                </value>
-                
-                <value>
                 <fullName>New</fullName>
                 <default>false</default>
                 <label>New</label>
@@ -41,11 +25,6 @@
                 <fullName>Completed</fullName>
                 <default>false</default>
                 <label>Completed</label>
-            </value>
-            <value>
-                <fullName>Open</fullName>
-                <default>false</default>
-                <label>Open</label>
             </value>
         </valueSetDefinition>
     </valueSet>
