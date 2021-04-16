@@ -25,6 +25,17 @@
                 <fullName>Taken</fullName>
                 <default>false</default>
                 <label>Taken</label>
+                </value>
+                
+                <value>
+                <fullName>New</fullName>
+                <default>false</default>
+                <label>New</label>
+            </value>
+            <value>
+                <fullName>Pending</fullName>
+                <default>false</default>
+                <label>Pending</label>
             </value>
             <value>
                 <fullName>Completed</fullName>

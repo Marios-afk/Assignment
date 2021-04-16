@@ -6,7 +6,13 @@
          <name>CustomField</name>
     </types>
     <types>
-        <members>Opportunity.Quantity_Rule</members> 
+        <members>Opportunity.Quantity_Rule</members>
+        <name>ValidationRule</name> 
+        <members>Opportunity.Revenue__c</members> 
+         <name>CustomField</name>
+    </types>
+    <types>
+        <members>Opportunity.Revenue_Rule</members> 
          <name>ValidationRule</name>
     </types>
     <types>
@@ -22,7 +28,17 @@
          <name>Layout</name>
     </types>
     <types>
-    <members>update_next_step_by_status</members> 
+    <members>update_next_step_by_status</members>
+    <name>Flow</name> 
+        <members>ProcessOppo1</members> 
+         <name>Flow</name>
+    </types>
+    <types>
+        <members>Opportunity-CustomOpportunity1</members> 
+         <name>Layout</name>
+    </types>
+    <types>
+    <members>FlowOppo</members> 
      <name>Flow</name>
 </types>
     <version>51.0</version>
