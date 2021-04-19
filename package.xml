@@ -37,12 +37,16 @@
         <name>Profile</name>
     </types>
     <types>
-        <members>MergeTest1</members>
+        <members>Conflict</members>
         <name>PermissionSet</name>
     </types>
     <types>
         <members>CustomPerm1</members>
         <name>CustomPermission</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ProfileSessionSetting</name>
     </types>
 
     <version>51.0</version>
