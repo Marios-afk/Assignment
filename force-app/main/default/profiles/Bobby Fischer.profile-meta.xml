@@ -9,7 +9,7 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Opportunity.Status__c</field>
-        <readable>true</readable>
+        <readable>false</readable>
     </fieldPermissions>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
